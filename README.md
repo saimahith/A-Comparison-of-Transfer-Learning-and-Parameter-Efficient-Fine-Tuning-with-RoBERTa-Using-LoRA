@@ -45,3 +45,5 @@ matrices that are trainable while keeping the 98
 original pre-trained weights frozen. The key idea 99 
 is to decompose the update of a weight matrix 100 
 into two smaller matrices.
+
+![lora](https://github.com/user-attachments/assets/06031e9a-7308-4779-a3d8-8454c8cadb5b)
